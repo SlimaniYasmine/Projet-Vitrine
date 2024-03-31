@@ -1,2 +1,2 @@
 # Projet-NDW
-Web Site pour un avocat
+Web Site Vitrine 
